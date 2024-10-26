@@ -1,1 +1,2 @@
-# PRODIGY_DS_04
+# Sentiment Analysis on Twitter Data
+ This notebook explores sentiment analysis on Twitter data, utilizing machine learning techniques to classify tweets as positive, negative, or neutral. It includes data preprocessing steps like text cleaning, tokenization, and vectorization, followed by model building and evaluation using algorithms such as Logistic Regression, Naive Bayes, and Support Vector Machines. The goal is to provide insights into public sentiment around various topics on Twitter, which can be valuable for businesses, researchers, and social media monitoring.
